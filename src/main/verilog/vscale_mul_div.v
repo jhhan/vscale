@@ -1,5 +1,6 @@
 `include "vscale_md_constants.vh"
 `include "vscale_ctrl_constants.vh"
+`include "vscale_csr_file.v"
 
 module vscale_mul_div(
                       input                         clk,
